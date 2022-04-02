@@ -1,5 +1,3 @@
 # CS-361
 
-GitHub
-
-I love ☕& 🍺
+I love ☕!
